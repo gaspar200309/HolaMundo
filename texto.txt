@@ -1,5 +1,7 @@
 
+VimCrypt~03!™®SÁkÇ—E°$ï*ÙS1³({ëJ£Ãp§Ø:ÙcÁ·tòpŽ„þ á¶c«ãàâª‹x³‰<ž"€É¿ÃCDNR
 Armando Gaspar
+<<<<<<< HEAD
 
 
 khgfiuhniuhiuhiukjnkjnijnikhgfiuh
@@ -14,19 +16,14 @@ holanda
 
 bon dia
 jovenes
+=======
+khgfiuhn
+my nombre ADAMSON
+holanda
+hola ya se pudo
+>>>>>>> 5c7ddcdc54b4b2ffcdb86cf63ce6e8ab9f5f0a14
 Jose Mita
-
-
 20023
-
-
-
-
-
-
 156897
-
-
-
 56546879
->>>>>>> 42d7941a405c9a00f1ca47be80ecf10913ef7a54
+
