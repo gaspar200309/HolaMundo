@@ -5,8 +5,12 @@ Armando Gaspar
 khgfiuhniuhiuhiukjnkjnijnikhgfiuh
 
 
+<<<<<<< HEAD
+my nombre ADAM
+=======
 holanda
 
+>>>>>>> 42d7941a405c9a00f1ca47be80ecf10913ef7a54
 
 
 
